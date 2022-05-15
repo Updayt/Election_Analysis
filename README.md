@@ -101,4 +101,14 @@ With the out file located in the resources folder we answer the following points
 
 Colorado saw three counties tally up to 369,711 votes. The biggest of the counties with a 82.8% was Denver. We processed the votes for three candidates of Charles, Diana, and Raymon. With 73.8% of the votes towards Diana DeGette, that is 272,892 of the 369,711 total votes.
 
+## Election-Audit Summary
 
+Expanding the Election Audit to include voter turnout by county with candidates results has been a great way to take advantage of the convenience a script provides.  The added insight can be a guide for future election performance, so that you may properly allocate resources where turnout is low or demographics are hard to reach.
+
+A little time invested into customizing the script can provide on-demand analysis for years to come.  
+
+Modifying the script to produce turnout results by county is just one of many ways that minor adjustments to the code can reveal critical data.  For example, we could also dive deeper and determine what percentage of each county voted for each candidate by adding an if-statement to the code.  These type of Decision Statements are how the code runs calculations and all we've done is provide it with a data file. 
+
+Similarly, if this were a federal election, we could use the same script and change the county to states. 
+
+In short, no matter the number of candidates or counties, the script used to perform the Election Audit can be a valuable resourse for the board.  
